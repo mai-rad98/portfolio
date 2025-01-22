@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+Maitumelo's portfolio loading        </a>
       </header>
     </div>
   );
